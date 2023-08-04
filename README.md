@@ -59,8 +59,8 @@ You can select the game path manually by **Browse** and **Apply** buttons; It ch
 ### 🛠 Trainer/Patcher options
 - **Auto save config on exit** - Auto save app settings to SpeedrunningPatcher.xml file on exit
 - **Save app config** - Save app settings to SpeedrunningPatcher.xml file
-- **Reset app config** - Delete Patcher.xml file and restart app with default settings
-- **Update d3d8to9 API** - Download latest graphic API wrapper to game folder ([D3D9](https://github.com/crosire/d3d8to9))
+- **Reset app config** - Delete SpeedrunningPatcher.xml file and restart app with default settings
+- **Update d3d8to9 API** - Download latest graphics API wrapper to the game folder ([D3D9](https://github.com/crosire/d3d8to9))
 - **Delete saves (.sav)** - Delete game saves
 - **Kill Taz.exe (Alt+F4)** - Terminate game process (hooked as Alt+F4 in the game)
 
@@ -71,7 +71,7 @@ You can select the game path manually by **Browse** and **Apply** buttons; It ch
 - **Audio** - Open native audio setup
 - **Controls** - Open native controls setup
 - **Explorer** - Open game folder in Windows explorer
-- **GitHub** - Link to [Taz: Wanted Speedrunning Patcher](...) repository
+- **GitHub** - Link to [Taz: Wanted Speedrunning Patcher](https://github.com/MilkGames/Taz_Wanted_Speedrunning_Patcher) repository
 
 ## 💡 Known Issues
 - On some systems, after patching the game, Windows Defender removes Taz.exe and marks it as a trojan. Please install another antivirus or add Taz.exe to the list of allowed files. The information about trojan is false, this problem is on the way to be solved.
