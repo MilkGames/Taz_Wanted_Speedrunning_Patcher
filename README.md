@@ -17,7 +17,7 @@ This patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it create
 
 - **Taz: Wanted PC Game** - Taz: Wanted US version
 - **[Microsoft .NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631) or newer** - Already preinstalled on [Windows 10 (version 1903) and newer](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)
-- **Internet Access (Optional)** - for downloading d3d8to9 wrapper ([d3d8to9](https://github.com/crosire/d3d8to9) and [ReadMe](...) view
+- **Internet Access (Optional)** - for downloading [d3d8to9](https://github.com/crosire/d3d8to9) wrapper and [ReadMe](https://milkgames.github.io/Taz_Wanted_Speedrunning_Patcher) view
 - **[DirectX® End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35) (Optional)** - for some custom graphics wrappers
 
 ## 🔩 Patches
@@ -59,7 +59,7 @@ You can select the game path manually by **Browse** and **Apply** buttons; It ch
 - **Auto save config on exit** - Auto save app settings to SpeedrunningPatcher.xml file on exit
 - **Save app config** - Save app settings to SpeedrunningPatcher.xml file
 - **Reset app config** - Delete SpeedrunningPatcher.xml file and restart app with default settings
-- **Update d3d8to9 API** - Download latest graphics API wrapper to the game folder ([D3D9](https://github.com/crosire/d3d8to9))
+- **Update d3d8to9 API** - Download latest graphics API wrapper to the game folder ([d3d8to9](https://github.com/crosire/d3d8to9))
 - **Delete saves (.sav)** - Delete game saves
 - **Kill Taz.exe (Alt+F4)** - Terminate game process (hooked as Alt+F4 in the game)
 
