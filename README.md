@@ -47,9 +47,9 @@ This patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it create
 - **Windowed Mode** - Windowed mode with selected resolution and ratio
 - **Voodoo Compatibility** - Simplified graphics mode, incompatible with windowed mode
 - **Point Texture Filtering** - Nearest-Neighbour filtering for all textures (magnified textures only)
-- **NEW** **Cartoon Lightning** - You can enable/disable Cartoon Lightning inside the patcher, without using the native launcher.
-- **NEW** **Cartoon Outlines** - You can enable/disable Cartoon Outlines inside the patcher, without using the native launcher.
-- **NEW** **Draw Distance** - Adjust Draw Distance inside the patcher, without using the native launcher.
+- **!NEW!** **Cartoon Lightning** - You can enable/disable Cartoon Lightning inside the patcher, without using the native launcher.
+- **!NEW!** **Cartoon Outlines** - You can enable/disable Cartoon Outlines inside the patcher, without using the native launcher.
+- **!NEW!** **Draw Distance** - Adjust Draw Distance inside the patcher, without using the native launcher.
 
 ## ⚙ Settings
 
