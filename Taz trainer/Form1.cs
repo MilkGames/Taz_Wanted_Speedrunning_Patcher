@@ -1044,7 +1044,7 @@ namespace Taz_trainer
 
         private void githubLink_Click(object sender, EventArgs e)
         {
-            //Process.Start("https://github.com/MuxaJlbl4/Taz_Wanted_trainer_and_patcher");
+            Process.Start("https://github.com/MilkGames/Taz_Wanted_Speedrunning_Patcher");
         }
         /*
         private void gkhLink_Click(object sender, EventArgs e)
