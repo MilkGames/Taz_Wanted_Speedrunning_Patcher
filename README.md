@@ -9,7 +9,6 @@ These repositories and the licenses that come with them are also used in this pr
 - [ExtractTarGz](https://gist.github.com/ForeverZer0/a2cd292bd2f3b5e114956c00bb6e872b)
 - [FormSerialisor](https://github.com/Skkay/FormSerialisor)
 - [GlobalKeyboardHook](https://github.com/jparnell8839/globalKeyboardHook)
-- [markdown-only](https://github.com/aleen42/markdown-only)
 
 This patcher supports restoring game files after using Taz: Wanted Trainer and Patcher, provided that Taz.exe.backup in the root of the game folder is the original executable file dated 8/12/2002 for the US version of the game (except Glyphs and Russian language).
 This patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it creates its own SpeedrunningPatcher.xml save file (instead of Patcher.xml).
