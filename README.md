@@ -78,7 +78,7 @@ You can select the game path manually by **Browse** and **Apply** buttons; It ch
 
 ## ➕ Additional information
 - Original source code, images and README.md: **[Taz: Wanted Trainer and Patcher](https://github.com/MuxaJlbl4/Taz_Wanted_trainer_and_patcher)** project created by **[MuxaJlbl4 (MuLLlaH9!)](https://github.com/MuxaJlbl4)**
-- Removing trainer features, adding allowed features for speedrun.com: [Milk](https://www.youtube.com/channel/UC8ZrxS78M9TqB_2cMlIWJMA)[Games](https://github.com/MilkGames)
-- Testers: **[MuxaJlbl4 (MuLLlaH9!)](https://github.com/MuxaJlbl4)**, [Cyclone](https://www.youtube.com/c/CycloneFN)[FN](https://pastebin.com/u/CycloneFN)
+- Removing trainer features, adding allowed features for speedrun.com: **[Milk](https://www.youtube.com/channel/UC8ZrxS78M9TqB_2cMlIWJMA)[Games](https://github.com/MilkGames)**
+- Testers: **[MuxaJlbl4 (MuLLlaH9!)](https://github.com/MuxaJlbl4)**, **[Cyclone](https://www.youtube.com/c/CycloneFN)[FN](https://pastebin.com/u/CycloneFN)**
 
 The project was made at the request of CycloneFN for [Taz: Wanted Speedrunning Community](https://discord.gg/YJAVRbB8PK) in August 2023.
