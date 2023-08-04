@@ -73,7 +73,7 @@ You can select the game path manually by **Browse** and **Apply** buttons; It ch
 - **GitHub** - Link to [Taz: Wanted Speedrunning Patcher](https://github.com/MilkGames/Taz_Wanted_Speedrunning_Patcher) repository
 
 ## 💡 Known Issues
-- On some systems, after patching the game, Windows Defender removes Taz.exe and marks it as a trojan. Please install another antivirus or add Taz.exe to the list of allowed files. The information about trojan is false, this problem is on the way to be solved.
+- On some systems, after patching the game, Windows Defender removes Taz.exe and marks it as a trojan. (Solved, but on really rare occasions it may show up.)
 
 ## ➕ Additional information
 - Original source code, images and README.md: **[Taz: Wanted Trainer and Patcher](https://github.com/MuxaJlbl4/Taz_Wanted_trainer_and_patcher)** project created by **[MuxaJlbl4 (MuLLlaH9!)](https://github.com/MuxaJlbl4)**
