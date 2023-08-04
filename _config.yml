@@ -1,0 +1,9 @@
+color-mode: "dark"
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+plugins:
+  - jemoji
