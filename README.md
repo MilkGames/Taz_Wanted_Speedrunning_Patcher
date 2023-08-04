@@ -1,4 +1,4 @@
-Custom launcher and game patcher for **Taz: Wanted** game and speedrunning community.
+Custom launcher and game patcher for **Taz: Wanted**.
 
 **This patcher is the only one authorized for speedrun PC version of Taz: Wanted on [speedrun.com](https://www.speedrun.com/taz_wanted)!**
 
