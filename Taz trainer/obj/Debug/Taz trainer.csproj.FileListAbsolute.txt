@@ -1,0 +1,9 @@
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\bin\Debug\Taz Wanted Speedrunning Patcher.exe.config
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\bin\Debug\Taz Wanted Speedrunning Patcher.exe
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\bin\Debug\Taz Wanted Speedrunning Patcher.pdb
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\obj\Debug\Taz_trainer.form.resources
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\obj\Debug\Taz_Speedrunning_Patcher.Properties.Resources.resources
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\obj\Debug\Taz trainer.csproj.GenerateResource.cache
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\obj\Debug\Taz trainer.csproj.CoreCompileInputs.cache
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\obj\Debug\Taz Wanted Speedrunning Patcher.exe
+E:\Taz_Wanted_Speedrunning_Patcher\Taz trainer\obj\Debug\Taz Wanted Speedrunning Patcher.pdb
