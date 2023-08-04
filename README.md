@@ -16,7 +16,7 @@ This patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it create
 
 ## ✏ Requirements
 
-- **Taz: Wanted PC Game** - **CLEAN** Taz: Wanted US version
+- **Taz: Wanted PC Game** - Taz: Wanted US version
 - **[Microsoft .NET Framework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631) or newer** - Already preinstalled on [Windows 10 (version 1903) and newer](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)
 - **Internet Access (Optional)** - for downloading d3d8to9 wrapper ([d3d8to9](https://github.com/crosire/d3d8to9) and [ReadMe](...) view
 - **[DirectX® End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35) (Optional)** - for some custom graphics wrappers
