@@ -11,6 +11,7 @@ These repositories and the licenses that come with them are also used in this pr
 - [GlobalKeyboardHook](https://github.com/jparnell8839/globalKeyboardHook)
 
 This patcher supports restoring game files after using Taz: Wanted Trainer and Patcher, provided that Taz.exe.backup in the root of the game folder is the original executable file dated 8/12/2002 for the US version of the game.
+
 Also this patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it creates its own SpeedrunningPatcher.xml save file (instead of Patcher.xml).
 
 ## ✏ Requirements
