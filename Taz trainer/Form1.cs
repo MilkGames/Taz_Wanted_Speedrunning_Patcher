@@ -543,7 +543,7 @@ namespace Taz_trainer
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
-                        file.Position = 0x38;
+                        file.Position = 0x3C;
                         file.WriteByte(0x01);
 
                         file.Close();
@@ -553,7 +553,7 @@ namespace Taz_trainer
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
-                        file.Position = 0x38;
+                        file.Position = 0x3C;
                         file.WriteByte(0x00);
 
                         file.Close();
@@ -565,7 +565,7 @@ namespace Taz_trainer
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
-                        file.Position = 0x3C;
+                        file.Position = 0x38;
                         file.WriteByte(0x01);
 
                         file.Close();
@@ -575,7 +575,7 @@ namespace Taz_trainer
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
-                        file.Position = 0x3C;
+                        file.Position = 0x38;
                         file.WriteByte(0x00);
 
                         file.Close();
@@ -583,7 +583,7 @@ namespace Taz_trainer
                 }
 
                 //draw distance
-                if (drawDistance.SelectedIndex == 1)
+                if (drawDistance.SelectedIndex == 0)
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
@@ -596,7 +596,7 @@ namespace Taz_trainer
                     }
                 }
 
-                else if (drawDistance.SelectedIndex == 2)
+                else if (drawDistance.SelectedIndex == 1)
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
@@ -609,7 +609,7 @@ namespace Taz_trainer
                     }
                 }
 
-                else if (drawDistance.SelectedIndex == 3)
+                else if (drawDistance.SelectedIndex == 2)
                 {
                     using (var file = new FileStream(TazFolderPath + "\\taz.dat", FileMode.Open, FileAccess.ReadWrite))
                     {
