@@ -10,7 +10,7 @@ These repositories and the licenses that come with them are also used in this pr
 - [FormSerialisor](https://github.com/Skkay/FormSerialisor)
 - [GlobalKeyboardHook](https://github.com/jparnell8839/globalKeyboardHook)
 
-This patcher supports restoring game files after using Taz: Wanted Trainer and Patcher, provided that Taz.exe.backup in the root of the game folder is the original executable file dated 8/12/2002 for the US version of the game (except Glyphs and Russian language).
+This patcher supports restoring game files after using Taz: Wanted Trainer and Patcher, provided that Taz.exe.backup in the root of the game folder is the original executable file dated 8/12/2002 for the US version of the game.
 This patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it creates its own SpeedrunningPatcher.xml save file (instead of Patcher.xml).
 
 ## ✏ Requirements
@@ -73,7 +73,7 @@ You can select the game path manually by **Browse** and **Apply** buttons; It ch
 - **GitHub** - Link to [Taz: Wanted Speedrunning Patcher](https://github.com/MilkGames/Taz_Wanted_Speedrunning_Patcher) repository
 
 ## 💡 Known Issues
-- On some systems, after patching the game, Windows Defender removes Taz.exe and marks it as a trojan. Please install another antivirus or add Taz.exe to the list of allowed files. The information about trojan is false, this problem is on the way to be solved.
+- On some systems, after patching the game, Windows Defender removes Taz.exe and marks it as a trojan. (Solved, but on really rare occasions it may show up.)
 
 ## ➕ Additional information
 - Original source code, images and README.md: **[Taz: Wanted Trainer and Patcher](https://github.com/MuxaJlbl4/Taz_Wanted_trainer_and_patcher)** project created by **[MuxaJlbl4 (MuLLlaH9!)](https://github.com/MuxaJlbl4)**
