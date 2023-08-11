@@ -2,6 +2,8 @@ Custom launcher and game patcher for **Taz: Wanted**.
 
 **This patcher is the only one authorized for speedrunning the PC version of Taz: Wanted on [speedrun.com](https://www.speedrun.com/taz_wanted)!**
 
+&nbsp;
+
 The source code and images were taken from the **[Taz: Wanted Trainer and Patcher](https://github.com/MuxaJlbl4/Taz_Wanted_trainer_and_patcher)** project created by **[MuxaJlbl4 (MuLLlaH9!)](https://github.com/MuxaJlbl4)** with his permission.
 
 These repositories and the licenses that come with them are also used in this project:
