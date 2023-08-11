@@ -1193,6 +1193,8 @@ namespace Taz_trainer
                 using (MyWebClient web1 = new MyWebClient())
                 {
                     // Get latest release
+                    ServicePointManager.Expect100Continue = true;
+                    ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
                     string data0 = web1.DownloadString("https://github.com/crosire/d3d8to9/releases/latest");
                     string Latest = web1.ResponseUri.ToString();
                     // Get latest assets
