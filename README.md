@@ -56,7 +56,7 @@ Also this patcher doesn't conflict with Taz: Wanted Trainer and Patcher, as it c
 ### 🗺 Game path
 You can select the game path manually by **Browse** and **Apply** buttons; It changes Windows registry value with Taz path
 
-### 🛠 Trainer/Patcher options
+### 🛠 Patcher options
 - **Auto save config on exit** - Auto save app settings to SpeedrunningPatcher.xml file on exit
 - **Save app config** - Save app settings to SpeedrunningPatcher.xml file
 - **Reset app config** - Delete SpeedrunningPatcher.xml file and restart app with default settings
