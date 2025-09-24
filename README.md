@@ -1,3 +1,9 @@
+### This repository is archived!
+### Program development is discontinued, [Taz: Wanted Trainer & Patcher](https://github.com/MuxaJlbl4/Taz_Wanted_trainer_and_patcher) can currently be used for speedrunning.
+### Old README.md:
+
+# Taz: Wanted Speedrunning Patcher
+
 Custom launcher and game patcher for **Taz: Wanted**.
 
 **This patcher is the only one authorized for speedrunning the PC version of Taz: Wanted on [speedrun.com](https://www.speedrun.com/taz_wanted)!**
